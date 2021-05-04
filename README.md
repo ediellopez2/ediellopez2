@@ -10,4 +10,4 @@ I am Ediel. I enjoy reading, drinking single-origin coffee, investing, and going
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ediellopez2&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ### Toolbox
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ediellopez2&theme=tokyonight)
