@@ -1,5 +1,5 @@
 ### Hello world! 👋
-<img align="right" alt="GIF" src="https://github.com/ediellopez2/ediellopez2/blob/master/code.gif?raw=true" width="400" height="290" />
+<img align="right" alt="GIF" src="https://github.com/ediellopez2/ediellopez2/blob/main/code.gif?raw=true" width="400" height="290" />
 I am Ediel. I enjoy reading, drinking single-origin coffee, investing, and going on walks with my dog. 
 - 💬 Ask me about investing, coffee, and coding!
 - 😄 Pronouns: He/Him/His
